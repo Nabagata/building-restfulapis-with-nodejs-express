@@ -33,5 +33,5 @@ npm start
 ```
 
 [crmRoutes.js](src/routes/crmRoutes.js): Contains all the routes \
-[crMModel.js](src/models/crmModel.js): Contains the CRM model \
+[crmModel.js](src/models/crmModel.js): Contains the CRM model \
 [crmController.js](src/controllers/crmController.js): Contains all the controllers
